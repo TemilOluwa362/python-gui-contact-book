@@ -1,5 +1,8 @@
 # Python GUI Contact Book
 
+## Demo
+[Watch the demo video](https://x.com/Temiloluwaco/status/2107595330107928624)
+
 ## Files
 1. `contactbook_gui.py`: the main app with the graphical interface
 2. `contactbook.py`: the original version of the contact book
